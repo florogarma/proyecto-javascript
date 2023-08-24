@@ -1,24 +1,3 @@
-/*let horasTrabajadas = parseInt(prompt("Ingrese cantidad de horas diaras que trabaja"))
-let horasExtras = parseInt(prompt("Ingrese cantidad de horas extras que hizo hoy"))
-let horasTotales = prompt(horasTrabajadas + horasExtras)
-console.log ("La cantidad de horas que trabajò hoy es" +parseInt(horasTrabajadas + horasExtras))
-
-
-
-
-let charly = "Charly García"
-let flaco = "Luis Alberto Spinetta"
-let gus = "Gustavo Cerati"
-let otro = "Otro"
-
-
-let preguntaUno = prompt("Cuál es tu instrumento favorito? \n1-Guitarra \n2-Bajo \n3-Batería \n4-Pandereta");
-
-if (instrumento == "Guitarra")
-*/
-
-
-
 // Definición de la función para verificar si una canción es popular
 function esCancionPopular(reproducciones) {
     return reproducciones >= 1000000;
